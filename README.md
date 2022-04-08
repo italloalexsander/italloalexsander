@@ -4,3 +4,7 @@
 - 📫 Meu email: italloalexsander@gmail.com
 - 🙋‍♂️ Linkedin: www.linkedin.com/in/italloalexsander
 
+# Alguns projetos pessoais:
+
+#### Sistema de feedback para as disciplinas do curso de Ciência da Computação da UFPB:
+#### www.github.com/italloalexsander/help-cc-project
