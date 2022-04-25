@@ -13,3 +13,6 @@
 
 #### Recriação da interface do Netflix:
 #### www.github.com/italloalexsander/critflix
+
+#### Progressive Web App com dados do Covid-19:
+#### www.github.com/italloalexsander/covid19-dio
