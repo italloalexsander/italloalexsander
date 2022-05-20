@@ -8,11 +8,18 @@
 
 # Alguns projetos pessoais:
 
-#### Sistema de feedback para as disciplinas do curso de Ciência da Computação da UFPB:
-#### www.github.com/italloalexsander/help-cc-project
+### Sistema de feedback para as disciplinas do curso de Ciência da Computação da UFPB:
+##### Code: www.github.com/italloalexsander/help-cc-project
+##### Live version: https://help-cc.netlify.app/
 
-#### Recriação da interface do Netflix:
-#### www.github.com/italloalexsander/critflix
+### Recriação da interface do Netflix:
+##### Code: www.github.com/italloalexsander/critflix
+##### Live version: https://critflix.netlify.app/
 
-#### Progressive Web App com dados do Covid-19:
-#### www.github.com/italloalexsander/covid19-dio
+### Progressive Web App com dados do Covid-19:
+##### Code: www.github.com/italloalexsander/covid19-dio
+##### Live version: https://covid-19-dio-italloalexsander.netlify.app/
+
+### Pedra Papel e Tesoura:
+##### Code: www.github.com/italloalexsander/odin-rock-paper-scissors
+##### Live version: https://italloalexsander.github.io/odin-rock-paper-scissors/
