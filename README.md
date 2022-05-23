@@ -27,3 +27,7 @@
 ### Traço Mágico // Etch-A-Sketch:
 ##### Code: www.github.com/italloalexsander/etch-a-sketch
 ##### Live version: https://italloalexsander.github.io/etch-a-sketch
+
+### Calculadora // Calculator:
+##### Code: www.github.com/italloalexsander/calculator
+##### Live version: https://italloalexsander.github.io/calculator
