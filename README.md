@@ -20,9 +20,9 @@
 ##### Code: www.github.com/italloalexsander/covid19-dio
 ##### Live version: https://covid-19-dio-italloalexsander.netlify.app/
 
-### Pedra Papel e Tesoura // Rock Paper Scissors:
-##### Code: www.github.com/italloalexsander/odin-rock-paper-scissors
-##### Live version: https://italloalexsander.github.io/odin-rock-paper-scissors/
+### TinDog // Rede Social Para Cachorros:
+##### Code: www.github.com/italloalexsander/TinDog-PT
+##### Live version: https://italloalexsander.github.io/TinDog-PT/
 
 ### Traço Mágico // Etch-A-Sketch:
 ##### Code: www.github.com/italloalexsander/etch-a-sketch
